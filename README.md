@@ -52,7 +52,7 @@ input_data = (62, 0, 0, 140, 268, 0, 0, 160, 0, 3.6, 0, 2, 2)
 
 ## 🛠️ Tools Used
 
-- python, NumPy, Pandas, Scikit-learn
+- python, NumPy, Pandas, Scikit-learn, Streamlit
 
 ## 👨‍💻 Made By
 [kaabilcoder](https://github.com/kaabilcoder) ~ Saurabh Kumar Sahu
